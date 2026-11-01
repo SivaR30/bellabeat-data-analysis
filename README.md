@@ -196,7 +196,7 @@ The dashboard includes:
 
 ### Tableau Dashboard
 
-**[View the Bellabeat Smart Device Usage Analysis Dashboard]([ADD_TABLEAU_PUBLIC_LINK_HERE](https://public.tableau.com/views/BellabeatSmartDeviceUsageAnalysis_17929178157150/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
+**[View the Bellabeat Smart Device Usage Analysis Dashboard](https://public.tableau.com/views/BellabeatSmartDeviceUsageAnalysis_17929178157150/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ### Dashboard Preview
 
