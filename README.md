@@ -264,6 +264,9 @@ Because the dataset is small, older, and lacks demographic information, addition
 
 ---
 
+<img width="1487" height="347" alt="image" src="https://github.com/user-attachments/assets/ec2c5c12-0e31-49b4-9770-5c64187e6d70" />
+
+
 ## Repository Structure
 
 ```text
